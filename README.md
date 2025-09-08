@@ -80,7 +80,40 @@ Visualization & Reporting – Create dashboards for decision-makers (e.g., using
 
 OUTPUT:-
 
+
 <img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/16cd8530-26f5-43e3-ad97-f8d7aa4b0f00" />
+
+
+<img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/fdec5c83-f011-419b-b2cb-f2c240cf31c8" />
+
+
+<img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/1bc05de1-0d45-498e-8696-1cbddf24084c" />
+
+
+
+<img width="1184" height="390" alt="Screenshot 2025-09-08 130357" src="https://github.com/user-attachments/assets/152fe9af-742f-4727-8159-1f52ceade7d8" />
+
+
+
+<img width="1117" height="464" alt="Screenshot 2025-09-08 130410" src="https://github.com/user-attachments/assets/c738e52e-e7a4-4209-97ea-b276c1807ef7" />
+
+
+
+<img width="1014" height="592" alt="Screenshot 2025-09-08 130424" src="https://github.com/user-attachments/assets/87be0c99-5755-43c4-a17d-e082367fc7b3" />
+
+
+
+<img width="1101" height="520" alt="Screenshot 2025-09-08 130433" src="https://github.com/user-attachments/assets/ec21ed2f-2749-4b8d-aeb4-e152f16e3aed" />
+
+
+
+<img width="1076" height="687" alt="Screenshot 2025-09-08 130504" src="https://github.com/user-attachments/assets/693ca782-1e22-4d9b-84ff-18ecc1e87c0c" />
+
+
+
+
+
+
 
 
 
