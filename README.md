@@ -104,7 +104,7 @@ FIG 1.2 -Fuel consumption in liters with respect to Ticket Classes
 <img width="1184" height="390" alt="Screenshot 2025-09-08 130357" src="https://github.com/user-attachments/assets/152fe9af-742f-4727-8159-1f52ceade7d8" />
 
 
-
+FIG 1.3 -Customer feedback VS Frequent flight status
 <img width="1117" height="464" alt="Screenshot 2025-09-08 130410" src="https://github.com/user-attachments/assets/c738e52e-e7a4-4209-97ea-b276c1807ef7" />
 
 
