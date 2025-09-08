@@ -99,7 +99,7 @@ FIG 1.1- Average delay in flights in minutes.
 
 
 
-
+FIG 1.2 -Fuel consumption in liters with respect to Ticket Classes
 
 <img width="1184" height="390" alt="Screenshot 2025-09-08 130357" src="https://github.com/user-attachments/assets/152fe9af-742f-4727-8159-1f52ceade7d8" />
 
