@@ -104,18 +104,26 @@ FIG 1.2 -Fuel consumption in liters with respect to Ticket Classes
 <img width="1184" height="390" alt="Screenshot 2025-09-08 130357" src="https://github.com/user-attachments/assets/152fe9af-742f-4727-8159-1f52ceade7d8" />
 
 
-FIG 1.3 -Customer feedback VS Frequent flight status
+
+FIG 1.3 - Customer feedback VS Frequent flight status
+
 <img width="1117" height="464" alt="Screenshot 2025-09-08 130410" src="https://github.com/user-attachments/assets/c738e52e-e7a4-4209-97ea-b276c1807ef7" />
 
 
+
+FIG 1.4 - ROUTE VS REVENUE
 
 <img width="1014" height="592" alt="Screenshot 2025-09-08 130424" src="https://github.com/user-attachments/assets/87be0c99-5755-43c4-a17d-e082367fc7b3" />
 
 
 
+FIG 1.5 - Revenue generated from different ticket classes
+
 <img width="1101" height="520" alt="Screenshot 2025-09-08 130433" src="https://github.com/user-attachments/assets/ec21ed2f-2749-4b8d-aeb4-e152f16e3aed" />
 
 
+
+FIG 1.6 - Report
 
 <img width="1076" height="687" alt="Screenshot 2025-09-08 130504" src="https://github.com/user-attachments/assets/693ca782-1e22-4d9b-84ff-18ecc1e87c0c" />
 
