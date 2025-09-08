@@ -7,6 +7,8 @@ Over the past few years, the aviation industry has become increasingly competiti
 Despite having a strong operational network, the airline has been struggling with key issues that impact both customer experience and financial performance.
 
 
+
+
 Business Problem:-
 
 AeroMax Airways has been experiencing challenges in several areas:
@@ -21,6 +23,8 @@ The company has collected extensive data on its operations, customer demographic
 
 
 ROLE:-
+
+
 As a data analyst, your role is to analyze AeroMax Airways’ data and address the following objectives:
 
 Flight Delay Analysis.
@@ -50,7 +54,9 @@ Propose pricing optimization and fuel efficiency strategies.
 The insights derived from your analysis will support AeroMax in making data-driven decisions, regaining its competitive edge, and addressing critical operational challenges.
 
 
+
 ANALYSISl:-
+
 
 Data Cleaning & Preprocessing: Handle missing values, duplicates, and inconsistent entries.
 
@@ -61,7 +67,9 @@ Feature Engineering: Extract insights like delay frequency by route, customer ag
 Statistical & Predictive Modeling: Use regression/ML models to predict delays, optimize pricing, and analyze fuel costs.
 
 
+
 APPROACH :-
+
 
 Import & Clean Data – Preprocess datasets (operations, customers, finance).
 
@@ -78,13 +86,17 @@ Cost & Revenue Optimization.
 Visualization & Reporting – Create dashboards for decision-makers (e.g., using Power BI / Tableau / Python libraries).
 
 
+
 OUTPUT:-
+
 
 
 <img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/16cd8530-26f5-43e3-ad97-f8d7aa4b0f00" />
 
 
+
 <img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/fdec5c83-f011-419b-b2cb-f2c240cf31c8" />
+
 
 
 <img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/1bc05de1-0d45-498e-8696-1cbddf24084c" />
