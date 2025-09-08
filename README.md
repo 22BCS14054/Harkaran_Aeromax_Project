@@ -55,7 +55,7 @@ The insights derived from your analysis will support AeroMax in making data-driv
 
 
 
-ANALYSISl:-
+ANALYSIS:-
 
 
 Data Cleaning & Preprocessing: Handle missing values, duplicates, and inconsistent entries.
@@ -89,7 +89,7 @@ Visualization & Reporting – Create dashboards for decision-makers (e.g., using
 
 OUTPUT:-
 
-
+FIG 1.1- Average delay in flights in minutes.
 
 <img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/16cd8530-26f5-43e3-ad97-f8d7aa4b0f00" />
 
@@ -98,8 +98,6 @@ OUTPUT:-
 <img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/fdec5c83-f011-419b-b2cb-f2c240cf31c8" />
 
 
-
-<img width="1252" height="705" alt="Screenshot 2025-09-08 130248" src="https://github.com/user-attachments/assets/1bc05de1-0d45-498e-8696-1cbddf24084c" />
 
 
 
